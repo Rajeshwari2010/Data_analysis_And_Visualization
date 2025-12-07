@@ -97,18 +97,16 @@ Dataset source: HuggingFace dataset `lukebarousse/data_jobs`.
 ![Highest Paid Skills](Data_Jobs_analysis/images/Highest_paid_skills_and_highest_demand_skill.png)
 
 ### Job per Country
-![Jobs per country](Data_Jobs_analysis\images\Number_of_job_per_country.png)
+![Jobs per country](Data_Jobs_analysis/images/Number_of_job_per_country.png)
 
 ### Salary Distribution
-![Salary Distribution](Data_Jobs_analysis\images\Salary_distribution_US.png)
+![Salary Distribution](Data_Jobs_analysis/images/Salary_distribution_US.png)
 
-
-### 🎬 Movie Rating Distribution
-![Rating Distribution](Movie_Analysis_Project\images\rating_distribution.png)
+### Movie Rating Distribution
+![Rating Distribution](Movie_Analysis_Project/images/rating_distribution.png)
 
 ### Top Genre
-![Top Genre](Movie_Analysis_Project\images\Pieplot_for_genre.png)
-
+![Top Genre](Movie_Analysis_Project/images/Pieplot_for_genre.png)
 
 
 
