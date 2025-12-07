@@ -12,25 +12,25 @@ The repo includes two major projects:
 
 ### 🔍 **Objective**
 
-Analyze Indian movies dataset to understand: - Most common genres\
-- Rating distribution\
-- Relationship between rating and year\
-- Patterns in movie duration\
+Analyze Indian movies dataset to understand: - Most common genres
+- Rating distribution
+- Relationship between rating and year
+- Patterns in movie duration
 - Trends in movie releases over time
--Dataset source: Kaggle
+- Dataset source: Kaggle
 
 ### 🛠 **Skills Used**
 
--   **Pandas** (cleaning, wrangling)\
--   **NumPy**\
--   **Matplotlib & Seaborn** (visualization)\
+-   **Pandas** (cleaning, wrangling)
+-   **NumPy**
+-   **Matplotlib & Seaborn** (visualization)
 -   **Data preprocessing & feature extraction**
 
 ### 📌 **Key Insights**
 
--   Identified most popular genres\
--   Analyzed trends in ratings\
--   Cleaned missing values in duration, ratings\
+-   Identified most popular genres
+-   Analyzed trends in ratings
+-   Cleaned missing values in duration, ratings
 -   Visualized distribution of movies over years
 
 ### 📂 **Folder Contents**
@@ -48,9 +48,9 @@ Analyze Indian movies dataset to understand: - Most common genres\
 
 ### 🔍 **Objective**
 
-Analyze the US Data Analyst job market to understand: - Salary trends\
-- In-demand technical skills\
-- Highest-paying skills\
+Analyze the US Data Analyst job market to understand: - Salary trends
+- In-demand technical skills
+- Highest-paying skills
 - Skills required for entry-level jobs
 
 Dataset source: HuggingFace dataset `lukebarousse/data_jobs`.
@@ -64,9 +64,9 @@ Dataset source: HuggingFace dataset `lukebarousse/data_jobs`.
 
 ### 📌 **Key Insights**
 
--   Identified top 10 highest-paid skills\
--   Ranked most in-demand skills\
--   Visualized salary distributions\
+-   Identified top 10 highest-paid skills
+-   Ranked most in-demand skills
+-   Visualized salary distributions
 -   Compared skill demand vs salary
 
 ### 📂 **Folder Contents**
@@ -88,7 +88,6 @@ Dataset source: HuggingFace dataset `lukebarousse/data_jobs`.
 -   Matplotlib
 -   Seaborn
 -   Jupyter Notebook
--   VS Code
 
 ------------------------------------------------------------------------
 
